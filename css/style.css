@@ -8,6 +8,7 @@
     display: flex;
     background-color: rgb(48, 53, 56);
     padding: 0% 4%;
+    position: sticky;
     
     justify-content: space-between;
     align-items: center;
@@ -290,6 +291,7 @@ footer{
     
     .flex-conteiner-nav{
         flex-direction: column;
+        position: static;
     }
 
     .flex-conteiner-nav img {
