@@ -294,7 +294,6 @@ footer{
     .flex-conteiner-nav{
         flex-direction: column;
         position: static;
-        width: auto;
     }
 
     .flex-conteiner-nav img {
